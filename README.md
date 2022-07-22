@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rakshith2001
-- 👀 I’m interested in New thigs
+- 👀 I’m interested in New watching Anime
 - 🌱 I’m currently learning a lot
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me insta rakshith__r
