@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rakshit09631777" target="blank"><img src="https://img.shields.io/twitter/follow/rakshit09631777?logo=twitter&style=for-the-badge" alt="rakshit09631777" /></a> </p>
 
-- 🌱 I’m currently learning **Android Studio**
+- 🌱 I’m currently learning **React with GraphQL**
 
 - 📫 How to reach me **rakkshith2001@gmail.com**
 
