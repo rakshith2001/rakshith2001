@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rakshit09631777" target="blank"><img src="https://img.shields.io/twitter/follow/rakshit09631777?logo=twitter&style=for-the-badge" alt="rakshit09631777" /></a> </p>
 
-- 🌱 I’m currently learning **The MERN Stack mainly the Backend**
+- 🌱 I’m currently learning **The MERN Stack**
 
 - 🌱 Open Source Enthusiast
 
