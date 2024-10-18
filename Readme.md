@@ -9,11 +9,9 @@
 
 - 🌱 Open Source Enthusiast
 
-- 💼 Currently Looking for a Job
-
 - 📫 How to reach me **rakkshith2001@gmail.com**
 
-- ⚡ Fun fact **I like puzzles**
+- ⚡ **I like to consume copious amount of slop**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
