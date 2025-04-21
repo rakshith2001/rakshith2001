@@ -9,7 +9,6 @@
 
 - 🌱 Open Source Enthusiast
 
-- 📫 How to reach me **rakkshith2001@gmail.com**
 
 - ⚡ **I like to consume copious amount of slop**
 
